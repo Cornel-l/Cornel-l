@@ -1,4 +1,4 @@
- <img align="right" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjd89eit-OAAxV7ticCHd_bCeQQMygMegUIARCYAQ..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjd89eit-OAAxV7ticCHd_bCeQQMygMegUIARCYAQ](https://cdn.vectorstock.com/i/1000x1000/55/56/programming-web-banner-vector-26895556.webp)">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/sI600/2000_600px.gif
 
 <h1 align="center">Hi 👋, I'm Cornelius(Cornell)</h1>
 <h3 align="center">A Data Scientist and Machine Learning Engineer from Nigeria</h3>
