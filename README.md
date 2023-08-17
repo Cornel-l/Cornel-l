@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Cornelius(Cornell)</h1>
 <h3 align="center">A Data Scientist and Machine learning engineer from Nigeria</h3>
-<img align="right" alt="coding" width="400" src="(https://cdn.vectorstock.com/i/1000x1000/55/56/programming-web-banner-vector-26895556.webp)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848917/programmer.gif">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cornel-l&label=Profile%20views&color=0e75b6&style=flat" alt="cornel-l" /> </p>
