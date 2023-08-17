@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/sI600/2000_600px.gif
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/sI600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Cornelius(Cornell)</h1>
 <h3 align="center">A Data Scientist and Machine Learning Engineer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848917/programmer.gif">
