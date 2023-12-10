@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cornelius ohiemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cornelius ohiemi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ohiemi cornelius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ohiemi cornelius" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ohiemi cornelius" target="https://www.linkedin.com/in/ohiemi-cornelius-47832a273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7U5fnBaFRAyAo2eFJsRCfg%3D%3D"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ohiemi cornelius" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,6 @@
 
 <!--<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cornel-l&show_icons=true&locale=en&layout=compact" alt="cornel-l" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cornel-l&show_icons=true&locale=en" alt="cornel-l" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cornel-l&" alt="cornel-l" /></p>
 
